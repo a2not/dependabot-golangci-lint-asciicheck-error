@@ -1,0 +1,1 @@
+# dependabot-golangci-lint-asciicheck-error
